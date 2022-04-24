@@ -1,0 +1,73 @@
+2022-04-18 12:00:00,854 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-18 12:00:01,091 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-18 12:00:03,095 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-18 12:00:13,912 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-18 12:00:25,648 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-18 12:00:25,652 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-18 12:00:29,396 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-18 12:00:39,569 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-18 12:00:54,185 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-18 12:00:54,350 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-18 12:00:58,857 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-18 12:01:05,142 - Selenium_cucumber -INFO - ****** Login Failed 	******
+2022-04-19 17:00:23,494 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-19 17:00:23,620 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-19 17:00:25,966 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-19 17:00:36,732 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-19 17:00:46,660 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-19 17:00:46,662 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-19 17:01:06,938 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-19 17:01:31,310 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-19 17:01:31,313 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-19 17:01:35,787 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-19 17:01:42,278 - Selenium_cucumber -INFO - ****** Login Failed 	******
+2022-04-21 14:17:09,100 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-21 14:17:09,598 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-21 14:17:14,073 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-21 14:18:05,775 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-21 14:18:20,322 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-21 14:18:20,325 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-21 14:20:05,395 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-21 20:14:58,069 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-21 20:14:58,362 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-21 20:15:01,523 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-21 20:16:01,973 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-21 20:16:01,976 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-21 20:16:08,013 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-21 20:16:21,649 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-23 20:35:44,867 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-23 20:35:45,412 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-23 20:35:48,110 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-23 20:36:13,456 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-23 20:36:13,458 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-23 20:39:56,998 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-23 20:39:57,456 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-23 20:40:32,415 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-23 20:40:49,170 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-23 20:40:49,173 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-23 20:40:52,279 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:05:13,839 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:05:14,189 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:05:16,723 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:05:31,278 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-24 11:11:34,423 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:11:34,618 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:11:37,974 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:13:35,305 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:13:35,309 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:13:58,125 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:14:13,677 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-24 11:17:11,556 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:17:11,762 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:17:16,783 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:18:47,181 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:18:47,184 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:18:57,069 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:19:14,154 - Selenium_cucumber -INFO - ****** Login Successful 	******
+2022-04-24 11:20:36,974 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:20:37,040 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:20:40,742 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:22:31,255 - Selenium_cucumber -INFO - ******Lanching Browser******
+2022-04-24 11:22:31,325 - Selenium_cucumber -INFO - ******Opening URL******
+2022-04-24 11:22:35,575 - Selenium_cucumber -INFO - ******Providing Login DEtails 	******
+2022-04-24 11:22:49,737 - Selenium_cucumber -INFO - ****** Login Successful 	******
