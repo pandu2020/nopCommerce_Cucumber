@@ -3,17 +3,21 @@ package testRunner;
 import org.junit.runner.RunWith;
 
 import cucumber.api.CucumberOptions;
-import cucumber.api.junit.Cucumber;
+import cucumber.api.junit.Cucumber;  
 
 @RunWith(Cucumber.class)
 @CucumberOptions
 		(
 		   features =".//Features/",					//  Customers.features Login.feature",   
-           glue="stepDefinitions",
-           dryRun=false,        // false  dryRun=true,  -- If we true it will check all steps are there or not - it won't run
+   //    glue="stepDefinitions",                    // UI Steps 
+      glue={"RestSteps"},						// Rest APi Steps
+				   
+		   dryRun=false,        // false  dryRun=true,  -- If we true it will check all steps are there or not - it won't run
            monochrome=true,
-           plugin = { "pretty" ,   "html:test-output" },
-           tags  = {"@sanity"}
+         //  plugin = { "pretty" ,   "html:test-output" },
+        	        plugin = {"json:target/cucumber.json"},
+
+           tags  = {"@RestApiPostCall"}   // @sanity5  RestAPIGetCall  @RestApiPostCall  RestAPIGetCall
 		)
 public class TestRun {
 
